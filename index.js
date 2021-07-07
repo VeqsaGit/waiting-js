@@ -21,4 +21,4 @@ async function sleep(options) {
     while(new Date().getTime() < now + timeformatted){}
 }
 
-module.exports.waitingjs = waitingjs;
+module.exports.waitingjs = sleep;
