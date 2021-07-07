@@ -1,5 +1,5 @@
 {
-  "name": "waitingjs",
+  "name": "waiting-js",
   "version": "1.0.0",
   "description": "Add sleep() to javascript code",
   "main": "index.js",
