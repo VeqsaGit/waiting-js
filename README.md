@@ -8,8 +8,9 @@ First package made by Veqsa
 How to install the waiting package using npm
 
 ```bash
-npm install waiting
+npm install waiting-js
 ```
+
 ## Usage
 
 How to use the waiting package
