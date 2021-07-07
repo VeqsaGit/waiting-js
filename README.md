@@ -10,7 +10,6 @@ How to install the waiting package using npm
 ```bash
 npm install waiting
 ```
-
 ## Usage
 
 How to use the waiting package
