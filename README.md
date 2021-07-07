@@ -19,7 +19,7 @@ How to use the waiting package
 const waiting = require('waiting-js')
 ```
 ```javascript
-sleep({
+waiting.sleep({
     time: 2, // Amount of time the code should wait
     time_format: 'seconds' // Format of the time
 })
