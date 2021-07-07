@@ -1,6 +1,6 @@
 {
   "name": "waiting-js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Add sleep() to javascript code",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/VeqsaGit/waiting-js.git"
   },
   "keywords": [
-    "veqsa"
+    "veqsa",
+    "veqsagit",
+    "sleep",
+    "wait",
+    "timer"
+
   ],
   "author": "Veqsa",
   "license": "ISC",
